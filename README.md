@@ -1,4 +1,4 @@
-<p align="center"><a href="https://oidioom.com"><img src=".github/assets/oidioom-circle.svg" width="80" alt="Oidioom"></a></p>
+<p align="center"><a href="https://oidioom.com"><img src=".github/assets/oidioom-logo.svg" width="80" alt="Oidioom"></a></p>
 
 <h1 align="center">🔢 SayFlow</h1>
 
@@ -110,6 +110,6 @@ Flutter · Dart · Provider · fl_chart · pdf/printing · shared_preferences
 
 ---
 
-<p align="center"><a href="https://oidioom.com"><img src=".github/assets/oidioom-circle.svg" width="40" alt="Oidioom"></a></p>
+<p align="center"><a href="https://oidioom.com"><img src=".github/assets/oidioom-logo.svg" width="40" alt="Oidioom"></a></p>
 <p align="center"><b>by Oidioom — Tarek Sharabaty</b><br>
 <a href="https://oidioom.com">oidioom.com</a> · <a href="https://github.com/tariksharabaty">GitHub</a> · <a href="https://modrinth.com/organization/oidioomstudio">Modrinth</a> · <a href="https://gear.oidioom.com">Gear</a> · <a href="https://www.instagram.com/oidioom">Instagram</a></p>
